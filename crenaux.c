@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include"crenaux.h"
+#include"matiere.h"
+#include"salle.h"
+#include"enseignant.h"
+//#include"classe.h"
+#include"date.h"
+#include"heure.h"
+#include"departement.h"

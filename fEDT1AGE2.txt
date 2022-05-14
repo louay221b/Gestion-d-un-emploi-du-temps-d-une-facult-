@@ -1,0 +1,8 @@
+11/01/2021 08:30-11:20 ProgrammationProcedurale cours BenHadjMessaoud 787 Tour
+11/01/2021 13:00-15:20 CircuitsElectriques TP Sansa Zaitsev 216 physique
+12/01/2021 08:30-11:20 maths1 cours Jammazi 787 Tour
+12/01/2021 13:50-15:20 anglais1 cours Hassen 787 Tour
+13/01/2021 08:30-11:20 CircuitsElectriques cours Belkhodja 721 Tour
+13/01/2021 13:00-15:50 ElectroniqueNumerique1 cours Ksouri 787 Tour
+15/01/2021 08:30-11:20 Automatique generale cours Belghith 787 Tour
+15/01/2021 13:00-15:50 ProgrammationProcedurale TP BenHadjMessaoud Moumni 111 informatique

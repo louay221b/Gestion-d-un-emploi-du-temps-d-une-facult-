@@ -1,0 +1,770 @@
+# depslib dependency file v1.0
+1609967595 source:c:\users\amenallah\desktop\new folder (3)\miniprojet\etudiant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"etudiant.h"
+
+1609967250 c:\users\amenallah\desktop\new folder (3)\miniprojet\etudiant.h
+
+1609966429 source:c:\users\amenallah\desktop\new folder (3)\miniprojet\main.c
+	<stdio.h>
+	"etudiant.h"
+	"administration.h"
+
+1609965080 c:\users\amenallah\desktop\new folder (3)\miniprojet\administration.h
+
+1609967370 source:c:\users\amenallah\desktop\new folder (3)\miniprojet\administration.c
+	"etudiant.h"
+	<stdio.h>
+
+1610077535 source:c:\users\louai\desktop\miniprojet (1)\miniprojet\etudiant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"etudiant.h"
+	"edt.h"
+
+1610026566 c:\users\louai\desktop\miniprojet (1)\miniprojet\etudiant.h
+
+1610199631 source:c:\users\louai\desktop\miniprojet (1)\miniprojet\main.c
+	<stdio.h>
+	"etudiant.h"
+	"administration.h"
+
+1610023284 c:\users\louai\desktop\miniprojet (1)\miniprojet\administration.h
+
+1610199817 source:c:\users\louai\desktop\miniprojet (1)\miniprojet\administration.c
+	"etudiant.h"
+	<stdio.h>
+
+1610183998 source:c:\users\louai\desktop\miniprojet (1)\miniprojet\departement.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"departement.h"
+
+1610023025 c:\users\louai\desktop\miniprojet (1)\miniprojet\departement.h
+
+1610230310 source:c:\users\louai\desktop\miniprojet (1)\miniprojet\edt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"edt.h"
+	<stdio.h>
+	"enseignant.h"
+	"departement.h"
+	"date.h"
+	"matiere.h"
+	"heure.h"
+	"classe.h"
+	"salle.h"
+	"emploi de temps.h"
+
+1610070442 c:\users\louai\desktop\miniprojet (1)\miniprojet\edt.h
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"crenaux.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+
+1610025858 c:\users\louai\desktop\miniprojet (1)\miniprojet\date.h
+
+1610024558 c:\users\louai\desktop\miniprojet (1)\miniprojet\heure.h
+
+1609954768 c:\users\louai\desktop\miniprojet (1)\miniprojet\matiere.h
+
+1610071243 c:\users\louai\desktop\miniprojet (1)\miniprojet\crenaux.h
+
+1610033937 c:\users\louai\desktop\miniprojet (1)\miniprojet\enseignat.h
+
+1610200957 c:\users\louai\desktop\miniprojet (1)\miniprojet\salle.h
+
+1610077308 source:c:\users\louai\desktop\miniprojet (1)\miniprojet\enseignant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"enseignant.h"
+	"matiere.h"
+	"edt.h"
+
+1610074530 c:\users\louai\desktop\miniprojet (1)\miniprojet\enseignant.h
+	"matiere.h"
+
+1610186936 source:c:\users\louai\desktop\miniprojet (1)\miniprojet\matiere.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"matiere.h"
+
+1610230566 source:c:\users\louai\desktop\miniprojet (1)\miniprojet\salle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"salle.h"
+	"edt.h"
+
+1610760021 source:c:\users\louai\desktop\miniprojet (1)\statique\administration.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"etudiant.h"
+	"administration.h"
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"crenaux.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+	"classe.h"
+
+1610760637 c:\users\louai\desktop\miniprojet (1)\statique\etudiant.h
+	"classe.h"
+
+1610759771 source:c:\users\louai\desktop\miniprojet (1)\statique\departement.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"departement.h"
+
+1610760637 c:\users\louai\desktop\miniprojet (1)\statique\departement.h
+
+1610761729 source:c:\users\louai\desktop\miniprojet (1)\statique\edt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"edt.h"
+	"classe.h"
+
+1610761729 c:\users\louai\desktop\miniprojet (1)\statique\edt.h
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"crenaux.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+
+1610472816 c:\users\louai\desktop\miniprojet (1)\statique\date.h
+
+1610024558 c:\users\louai\desktop\miniprojet (1)\statique\heure.h
+
+1610760637 c:\users\louai\desktop\miniprojet (1)\statique\matiere.h
+
+1610471457 c:\users\louai\desktop\miniprojet (1)\statique\crenaux.h
+	"matiere.h"
+	"heure.h"
+	"enseignant.h"
+	"salle.h"
+
+1610759045 c:\users\louai\desktop\miniprojet (1)\statique\enseignant.h
+	"matiere.h"
+
+1610760637 c:\users\louai\desktop\miniprojet (1)\statique\salle.h
+
+1610760714 source:c:\users\louai\desktop\miniprojet (1)\statique\enseignant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"enseignant.h"
+	"matiere.h"
+	"edt.h"
+
+1610761729 source:c:\users\louai\desktop\miniprojet (1)\statique\etudiant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"etudiant.h"
+	"edt.h"
+
+1610760770 source:c:\users\louai\desktop\miniprojet (1)\statique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"etudiant.h"
+	"administration.h"
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"crenaux.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+
+1610760303 c:\users\louai\desktop\miniprojet (1)\statique\administration.h
+
+1610757840 source:c:\users\louai\desktop\miniprojet (1)\statique\matiere.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"matiere.h"
+
+1610758661 source:c:\users\louai\desktop\miniprojet (1)\statique\salle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"salle.h"
+	"edt.h"
+	"crenaux.h"
+
+1610731264 source:c:\users\louai\desktop\miniprojet (1)\statique\crenaux.c
+	<stdio.h>
+	"crenaux.h"
+	"matiere.h"
+	"salle.h"
+	"enseignant.h"
+	"date.h"
+	"heure.h"
+	"departement.h"
+
+1610473104 source:c:\users\louai\desktop\miniprojet (1)\statique\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"date.h"
+
+1610760215 source:c:\users\louai\desktop\miniprojet (1)\statique\classe.c
+
+1610731659 c:\users\louai\desktop\miniprojet (1)\statique\classe.h
+
+1611007766 source:c:\users\louai\desktop\statique\statique\administration.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"etudiant.h"
+	"administration.h"
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"crenaux.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+	"classe.h"
+
+1611005288 c:\users\louai\desktop\statique\statique\etudiant.h
+
+1610731659 c:\users\louai\desktop\statique\statique\classe.h
+
+1610760303 c:\users\louai\desktop\statique\statique\administration.h
+
+1611006438 c:\users\louai\desktop\statique\statique\date.h
+
+1610933615 c:\users\louai\desktop\statique\statique\heure.h
+
+1610929986 c:\users\louai\desktop\statique\statique\matiere.h
+
+1610471457 c:\users\louai\desktop\statique\statique\crenaux.h
+	"matiere.h"
+	"heure.h"
+	"enseignant.h"
+	"salle.h"
+
+1610759045 c:\users\louai\desktop\statique\statique\enseignant.h
+	"matiere.h"
+
+1611082874 c:\users\louai\desktop\statique\statique\salle.h
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"departement.h"
+	"enseignant.h"
+
+1611006438 c:\users\louai\desktop\statique\statique\departement.h
+
+1610760215 source:c:\users\louai\desktop\statique\statique\classe.c
+
+1611006438 source:c:\users\louai\desktop\statique\statique\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"date.h"
+
+1611011523 source:c:\users\louai\desktop\statique\statique\departement.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"departement.h"
+
+1611081214 source:c:\users\louai\desktop\statique\statique\edt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"date.h"
+	"heure.h"
+	"enseignant.h"
+	"salle.h"
+
+1611007220 c:\users\louai\desktop\statique\statique\edt.h
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+
+1611011523 source:c:\users\louai\desktop\statique\statique\enseignant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"enseignant.h"
+	"matiere.h"
+	"edt.h"
+
+1611011892 source:c:\users\louai\desktop\statique\statique\etudiant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"etudiant.h"
+	"edt.h"
+
+1610760770 source:c:\users\louai\desktop\statique\statique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"etudiant.h"
+	"administration.h"
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"crenaux.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+
+1611011095 source:c:\users\louai\desktop\statique\statique\matiere.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"matiere.h"
+
+1611080018 source:c:\users\louai\desktop\statique\statique\salle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"salle.h"
+	"edt.h"
+	"crenaux.h"
+
+1610933615 source:c:\users\louai\desktop\statique\statique\heure.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"heure.h"
+
+1611268010 source:c:\users\user\desktop\statique (2)\statique\statique\administration.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"etudiant.h"
+	"administration.h"
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"crenaux.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+	"classe.h"
+
+1611005290 c:\users\user\desktop\statique (2)\statique\statique\etudiant.h
+
+1610760304 c:\users\user\desktop\statique (2)\statique\statique\administration.h
+
+1611006440 c:\users\user\desktop\statique (2)\statique\statique\date.h
+
+1610933616 c:\users\user\desktop\statique (2)\statique\statique\heure.h
+
+1610929988 c:\users\user\desktop\statique (2)\statique\statique\matiere.h
+
+1610471458 c:\users\user\desktop\statique (2)\statique\statique\crenaux.h
+	"matiere.h"
+	"heure.h"
+	"enseignant.h"
+	"salle.h"
+
+1610759046 c:\users\user\desktop\statique (2)\statique\statique\enseignant.h
+	"matiere.h"
+
+1611082876 c:\users\user\desktop\statique (2)\statique\statique\salle.h
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"departement.h"
+	"enseignant.h"
+
+1611276250 c:\users\user\desktop\statique (2)\statique\statique\departement.h
+
+1610731660 c:\users\user\desktop\statique (2)\statique\statique\classe.h
+
+1611268902 source:c:\users\user\desktop\statique (2)\statique\statique\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"date.h"
+
+1611282517 source:c:\users\user\desktop\statique (2)\statique\statique\departement.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"departement.h"
+
+1611271719 source:c:\users\user\desktop\statique (2)\statique\statique\enseignant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"enseignant.h"
+	"matiere.h"
+	"edt.h"
+
+1611007222 c:\users\user\desktop\statique (2)\statique\statique\edt.h
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+
+1611271307 source:c:\users\user\desktop\statique (2)\statique\statique\etudiant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"etudiant.h"
+	"edt.h"
+
+1611276733 source:c:\users\user\desktop\statique (2)\statique\statique\heure.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"heure.h"
+
+1611271307 source:c:\users\user\desktop\statique (2)\statique\statique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"etudiant.h"
+	"administration.h"
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"crenaux.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+	<time.h>
+
+1611275938 source:c:\users\user\desktop\statique (2)\statique\statique\matiere.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"matiere.h"
+
+1611275938 source:c:\users\user\desktop\statique (2)\statique\statique\salle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"salle.h"
+	"edt.h"
+	"crenaux.h"
+
+1611282517 source:c:\users\user\desktop\statique (2)\statique\statique\edt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"date.h"
+	"heure.h"
+	"enseignant.h"
+	"salle.h"
+
+1611268012 source:c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\administration.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"etudiant.h"
+	"administration.h"
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"crenaux.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+	"classe.h"
+
+1611330926 c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\etudiant.h
+
+1610760304 c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\administration.h
+
+1611006440 c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\date.h
+
+1611330884 c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\heure.h
+
+1611330926 c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\matiere.h
+
+1610471458 c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\crenaux.h
+	"matiere.h"
+	"heure.h"
+	"enseignant.h"
+	"salle.h"
+
+1611330926 c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\enseignant.h
+	"matiere.h"
+
+1611330926 c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\salle.h
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"departement.h"
+	"enseignant.h"
+
+1611330926 c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\departement.h
+
+1610731660 c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\classe.h
+
+1611268904 source:c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"date.h"
+
+1611282518 source:c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\departement.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"departement.h"
+
+1611330542 source:c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\edt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"date.h"
+	"heure.h"
+	"enseignant.h"
+	"salle.h"
+
+1611329900 source:c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\enseignant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"enseignant.h"
+	"matiere.h"
+	"edt.h"
+
+1611330884 c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\edt.h
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+
+1611328767 source:c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\etudiant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"etudiant.h"
+	"edt.h"
+
+1611276734 source:c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\heure.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"heure.h"
+
+1611271308 source:c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"etudiant.h"
+	"administration.h"
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"crenaux.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+	<time.h>
+
+1611330111 source:c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\matiere.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"matiere.h"
+
+1611275940 source:c:\users\louai\desktop\statique (4)\statique (2)\statique\statique\salle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"salle.h"
+	"edt.h"
+	"crenaux.h"
+
+1611268012 source:c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\administration.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"etudiant.h"
+	"administration.h"
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"crenaux.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+	"classe.h"
+
+1611330926 c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\etudiant.h
+
+1610760304 c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\administration.h
+
+1611006440 c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\date.h
+
+1611330884 c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\heure.h
+
+1611330926 c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\matiere.h
+
+1610471458 c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\crenaux.h
+	"matiere.h"
+	"heure.h"
+	"enseignant.h"
+	"salle.h"
+
+1611330926 c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\enseignant.h
+	"matiere.h"
+
+1611330926 c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\salle.h
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"departement.h"
+	"enseignant.h"
+
+1611330926 c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\departement.h
+
+1610731660 c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\classe.h
+
+1611268904 source:c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\date.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"date.h"
+
+1611282518 source:c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\departement.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"departement.h"
+
+1611330542 source:c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\edt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"date.h"
+	"heure.h"
+	"enseignant.h"
+	"salle.h"
+
+1611329900 source:c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\enseignant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"enseignant.h"
+	"matiere.h"
+	"edt.h"
+
+1611330884 c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\edt.h
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+
+1613219750 source:c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\etudiant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"etudiant.h"
+	"edt.h"
+
+1611276734 source:c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\heure.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"heure.h"
+
+1611271308 source:c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"etudiant.h"
+	"administration.h"
+	"date.h"
+	"heure.h"
+	"matiere.h"
+	"crenaux.h"
+	"departement.h"
+	"enseignant.h"
+	"salle.h"
+	<time.h>
+
+1611330111 source:c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\matiere.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"matiere.h"
+
+1611275940 source:c:\users\louai\desktop\mini-projet\statique version finale\statique (2)\statique\statique\salle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"salle.h"
+	"edt.h"
+	"crenaux.h"
+
